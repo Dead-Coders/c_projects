@@ -1,0 +1,5 @@
+kahramans 180
+serhad 40
+ali 30
+imran 20
+hayri 10
